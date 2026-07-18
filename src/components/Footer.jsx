@@ -11,7 +11,7 @@ export default function Footer() {
 
           <p className="text-slate-400 text-sm text-center">
 
-            © {new Date().getFullYear()} Atiya Qazi.
+            © {new Date().getFullYear()} Attia Qamar-un-nisa.
             All rights reserved.
 
           </p>

@@ -45,7 +45,7 @@ function Hero() {
             </a>
 
             <a
-              href="CV.pdf"
+              href="/CV.pdf"
               download
               className="border border-blue-500 px-6 py-3 rounded-lg flex items-center gap-2 hover:bg-blue-500 transition"
             >
@@ -60,7 +60,7 @@ function Hero() {
           <div className="flex gap-5 mt-8 text-2xl">
 
             <a
-              href="https://github.com/"
+              href="https://github.com/AtiyaQazi"
               target="_blank"
               className="hover:text-blue-400 transition"
             >
@@ -68,7 +68,7 @@ function Hero() {
             </a>
 
             <a
-              href="https://linkedin.com/"
+              href="https://linkedin.com/in/attia-qamar-un-nisa-aa6854301"
               target="_blank"
               className="hover:text-blue-400 transition"
             >
