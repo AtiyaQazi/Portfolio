@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
 
 function Hero() {
   return (
-  =<section
+  <section
   id="home"
   className="min-h-screen bg-slate-950 text-white flex items-center pt-28 sm:pt-32"
 >
