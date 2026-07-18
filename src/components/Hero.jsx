@@ -3,11 +3,11 @@ import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
 
 function Hero() {
   return (
-    <section
-      id="home"
-      className="min-h-screen bg-slate-950 text-white flex items-center"
-    >
-      <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
+  =<section
+  id="home"
+  className="min-h-screen bg-slate-950 text-white flex items-center pt-28 sm:pt-32"
+>
+    <div className="max-w-6xl mx-auto px-6 py-10 grid md:grid-cols-2 gap-10 items-center">
 
         {/* Left Content */}
         <motion.div
