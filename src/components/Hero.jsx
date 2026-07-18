@@ -17,9 +17,13 @@ function Hero() {
         >
          
 
-          <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-            Attia Qamar-un-nisa
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+  Attia
+  <br className="sm:hidden" />
+  <span className="sm:ml-2">
+    Qamar-un-Nisa
+  </span>
+</h1>
 
           <h2 className="text-2xl md:text-3xl mt-4 text-slate-300">
             Computer Science Graduate | 

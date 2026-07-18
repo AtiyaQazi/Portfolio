@@ -98,6 +98,7 @@ export default function Education() {
 
 
           <h2 className="section-title text-white mt-4">
+            
 
           Education
 

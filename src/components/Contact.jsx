@@ -110,6 +110,7 @@ export default function Contact() {
 
 
           <h2 className="section-title mt-4 text-white">
+            
             Contact
           </h2>
 
